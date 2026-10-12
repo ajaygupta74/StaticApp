@@ -4,7 +4,7 @@ A collection of self-contained static HTML files that run entirely in your brows
 
 ## 🔗 Live Site
 
-**[https://ajaygupta74.github.io/Static-Pages](https://ajaygupta74.github.io/Static-Pages/)**
+**[https://ajaygupta74.github.io/Static-Pages](https://ajaygupta74.github.io/MiniBox/)**
 
 Browse the folders on the live site and open any page directly.
 
